@@ -1,3 +1,16 @@
+# MobX
+
+## Setting up React
+
+- https://www.techomoro.com/how-to-install-and-setup-a-react-app-on-windows-10/
+	- https://www.npmjs.com/package/create-react-app
+
+## Setting up MobX
+
+- https://www.youtube.com/watch?v=_q50BXqkAfI&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=22
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
