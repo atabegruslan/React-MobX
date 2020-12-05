@@ -2,10 +2,28 @@
 
 ## Setting up React
 
+### Plain Setup
+
+- https://medium.com/@shoaibbhimani1392/getting-started-with-mobx-82306df92d90
 - https://www.techomoro.com/how-to-install-and-setup-a-react-app-on-windows-10/
 	- https://www.npmjs.com/package/create-react-app
 
-## Setting up MobX
+### Setup with Webpack
+
+- https://www.robinwieruch.de/minimal-react-webpack-babel-setup
+
+### Babel (needed for annotations)
+
+- https://github.com/mobxjs/mobx-react/blob/master/README_v5.md#observercomponentclass
+- https://www.npmjs.com/package/babel-plugin-transform-decorators-legacy
+- https://babeljs.io/docs/en/
+
+### Possible problems
+
+- https://github.com/facebook/create-react-app/issues/5708
+- https://stackoverflow.com/questions/59611597/error-cannot-find-module-webpack-cli-bin-config-yargs
+
+## MobX
 
 - https://www.youtube.com/watch?v=_q50BXqkAfI&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=22
 

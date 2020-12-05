@@ -1,9 +1,9 @@
-import { observable } from "mobx"
-import { autorun } from "mobx" // debugging
+import { observable } from "mobx";
+import { autorun } from "mobx"; // debugging
 
 class EntriesStore {
-	@observable entries = ["buy milk", "buy eggs"]
-	@observable filter = ""
+	@observable entries = ["Istanbul", "Cairo"];
+	@observable filter = "";
 }
 
 const entriesStore = new EntriesStore;
