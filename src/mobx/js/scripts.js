@@ -6,4 +6,4 @@ import List from "./components/List";
 import entriesStore from "./EntriesStore";
 
 const app = document.getElementById('app');
-ReactDOM.render(<List entriesStore={entriesStore} />, app);
+ReactDOM.render(<List store={entriesStore} />, app);

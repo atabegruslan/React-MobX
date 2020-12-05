@@ -19,7 +19,7 @@ export default class List extends React.Component {
 			
 				<h1>Trip Advisor</h1>
 
-				<p>{this.props.entriesStore.entries[0]}</p>
+				<p>{this.props.store.entries[0]}</p>
 
 			</div>
 		);
