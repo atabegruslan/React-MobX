@@ -26,6 +26,7 @@
 ## MobX
 
 - https://www.youtube.com/watch?v=_q50BXqkAfI&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=22
+- https://learnwebtutorials.com/tutorial-intro-to-first-mobx-react-app
 
 ---
 
