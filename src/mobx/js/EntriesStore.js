@@ -2,7 +2,8 @@ import { observable } from "mobx";
 import { autorun } from "mobx"; // debugging
 
 class EntriesStore {
-	@observable entries = ["Istanbul", "Cairo"];
+	entries = observable(["Istanbul", "Cairo"]);
+	@observable test = ["Istanbul", "Cairo"];
 	@observable filter = "";
 }
 

@@ -2,7 +2,6 @@ var debug = process.env.NODE_ENV !== "production";
 var webpack = require('webpack');
 
 var common = {
-  //devtool: debug ? "inline-sourcemap" : null,
   module: {
     rules: [
       {
