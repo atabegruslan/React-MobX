@@ -25,7 +25,10 @@
 
 ## MobX
 
-- https://www.youtube.com/watch?v=_q50BXqkAfI&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=22
+- https://www.youtube.com/watch?v=_q50BXqkAfI&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=22 (Webpack, babel 6)
+- https://learnwebtutorials.com/tutorial-intro-to-first-mobx-react-app (babel 6)
+- https://dev.to/rosyshrestha/build-your-first-app-with-mobx-and-react-4896 (Webpack, babel 7)
+- https://stackoverflow.com/questions/53483066/babel-7-using-the-export-keyword-between-a-decorator-and-a-class-is-not-allowed
 
 ---
 
