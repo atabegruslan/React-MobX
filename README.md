@@ -35,7 +35,8 @@
 - https://www.youtube.com/watch?v=NIj2J3Ux1q4&list=PLEhEHUEU3x5qz5OYDXamBmYnLvwboYTdH&index=4
 - https://www.youtube.com/watch?v=GQCJbRbA9Ms&list=PLN3n1USn4xlkdRlq3VZ1sT6SGW0-yajjL&index=9
 - https://www.youtube.com/watch?v=gED6KGBQgak&list=PLNqp92_EXZBKa1U7JbgUwBnDk3XzYDvXe&index=14
-
+- https://hackernoon.com/how-to-build-your-first-app-with-mobx-and-react-aea54fbb3265
+- https://learnwebtutorials.com/tutorial-intro-to-first-mobx-react-app
 
 - https://stackoverflow.com/questions/53483066/babel-7-using-the-export-keyword-between-a-decorator-and-a-class-is-not-allowed
 
